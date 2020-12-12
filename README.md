@@ -4,5 +4,5 @@
 # Flash Chat ⚡️
 
 
-(https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+#(https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
