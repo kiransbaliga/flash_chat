@@ -3,6 +3,4 @@
 
 # Flash Chat ⚡️
 
-
-#(https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
-
+simple chat app
